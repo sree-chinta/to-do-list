@@ -1,2 +1,2 @@
 # to-do-list
-A simple Android To Do List App
+A simple To Do List App
